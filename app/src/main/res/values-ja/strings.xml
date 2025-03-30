@@ -27,7 +27,7 @@
     <string name="app_db_type_clamav">ClamAVシグネチャで強化されています</string>
     <string name="lblOnionRoutingEnabledHint">Tor経由でダウンロード中。時間がかかります・・・</string>
     <string name="lblOnionRoutingNotInstalled">Orbotがインストールされていません！</string>
-    <string name="main_database_loaded">データベース %sシグネチャー を読み込みました</string>
+    <string name="main_database_loaded">データベースから %s個のシグネチャー を読み込みました</string>
     <string name="lblDatabaseServer">データベースサーバーを上書き</string>
     <string name="lblFullCredits">著作</string>
     <string name="lblScanSystem">/systemをスキャン</string>
