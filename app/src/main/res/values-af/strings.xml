@@ -11,8 +11,8 @@
     <string name="lblFullCredits">Erkennings</string>
     <string name="lblScanSystem">Skandeer sisteem</string>
     <string name="lblScanApps">Skandeer APKs</string>
-    <string name="lblScanInternal">Skandeer Interne Stoorruimte</string>
     <string name="lblScanExternal">Skandeer Eksterne Stoorruimte</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">Wanware Opgetel</string>
     <string name="lblNotificationMalwareDetectionDescription">Gebruik om te waarsku wanneer wanware opgetel word</string>
     <string name="lblNotificationRealtimeTitle">Intydse Skandering</string>

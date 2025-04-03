@@ -9,7 +9,7 @@
     <string name="lblDatabaseServer">تجاوز خادم قاعدة البيانات</string>
     <string name="lblScanSystem">فحص/النظام</string>
     <string name="lblScanApps">افحص ملفات APK للتطبيقات</string>
-    <string name="lblScanInternal">افحص التخزين الداخلي</string>
+    <string name="lblScanExternal">افحص التخزين الخارجي</string>
     <string name="lblNotificationMalwareDetectionDescription">يُستخدم للتنبيه عند اكتشاف البرامج الخبيثة</string>
     <string name="lblNotificationRealtimeDescription">يُستخدم لإظهار عداد الملفات المفحوصة والحفاظ على الخدمة الخلفية</string>
     <string name="lblNotificationRealtimeText">سيتم اكتشاف البرامج الخبيثة المعروفة في الوقت الفعلي</string>
@@ -17,7 +17,7 @@
     <string name="main_no_database_available">لا توجد قاعدة بيانات متاحة، لا يتم الفحص…</string>
     <string name="app_copyright">حقوق الطبع والنشر 2017-2024 لDivested Computing Group</string>
     <string name="app_db_type_clamav">مدعوم بتوقيعات نمط ClamAV</string>
-    <string name="lblScanExternal">افحص التخزين الخارجي</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">اكتشاف البرامج الخبيثة</string>
     <string name="lblNotificationRealtimeTitle">فاحص في الوقت الفعلي</string>
     <string name="lblRealtimeScannerToggle">فاحص في الوقت الفعلي</string>

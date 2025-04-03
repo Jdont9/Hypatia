@@ -11,8 +11,8 @@
     <string name="lblFullCredits">Riconoscimenti</string>
     <string name="lblScanSystem">Scansiona le app di sistema</string>
     <string name="lblScanApps">Scansiona le app</string>
-    <string name="lblScanInternal">Scansiona la memoria interna</string>
     <string name="lblScanExternal">Scansiona la memoria esterna</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">Malware rilevato</string>
     <string name="lblNotificationMalwareDetectionDescription">Indica quando il malware è rilevato</string>
     <string name="lblNotificationRealtimeTitle">Scansione in tempo reale</string>

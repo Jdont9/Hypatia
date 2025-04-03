@@ -12,8 +12,8 @@
     <string name="lblFullCredits">Créditos</string>
     <string name="lblScanSystem">Buscar /system</string>
     <string name="lblScanApps">Buscar APKs dos apps</string>
-    <string name="lblScanInternal">Buscar armazenamento interno</string>
     <string name="lblScanExternal">Buscar armazenamento externo</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">Detecção de Malware</string>
     <string name="lblNotificationMalwareDetectionDescription">Usado para alertar quando malware é detectado</string>
     <string name="lblNotificationRealtimeTitle">Busca em Tempo Real</string>

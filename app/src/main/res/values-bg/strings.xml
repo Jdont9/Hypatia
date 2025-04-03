@@ -2,7 +2,7 @@
 <resources>
     <string name="app_copyright">Copyright 2017-2024 Divested Computing Group</string>
     <string name="lblFullCredits">Кредити</string>
-    <string name="lblScanExternal">Сканиране на външна памет</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">Откриване на зловреден софтуер</string>
     <string name="lblNotificationRealtimeDetection">Открит зловреден софтуер:</string>
     <string name="main_database_override">Използва се сървър %s</string>
@@ -32,7 +32,7 @@
     <string name="lblOnionRoutingNotInstalled">Orbot не е инсталиран!</string>
     <string name="lblUpdateDatabase">Актуализирайте бази данни</string>
     <string name="lblScanApps">Сканиране на APK файлове на приложения</string>
-    <string name="lblScanInternal">Сканиране на вътрешната памет</string>
+    <string name="lblScanExternal">Сканиране на външна памет</string>
     <string name="lblNotificationMalwareDetectionDescription">Използва се за предупреждение при откриване на зловреден софтуер</string>
     <string name="lblNotificationRealtimeTitle">Скенер в реално време</string>
     <string name="lblScanSystem">Сканиране / система</string>

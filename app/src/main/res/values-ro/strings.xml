@@ -4,7 +4,7 @@
     <string name="lblUpdateDatabase">Actualizează bazele de date</string>
     <string name="lblOnionRoutingToggle">Descarcă prin Tor</string>
     <string name="lblScanSystem">Scanează /system</string>
-    <string name="lblScanExternal">Scanează stocarea externă</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">Malware detectat</string>
     <string name="lblScanApps">Scanează aplicațiile cu extensia APK</string>
     <string name="main_database_updating">Se actualuzează %s bazele de date…</string>
@@ -41,7 +41,7 @@
     <string name="app_version">Versiune: %s</string>
     <string name="lblNotificationRealtimeDetection">Malware Detectat:</string>
     <string name="lblReset">Resetează</string>
-    <string name="lblScanInternal">Scanează stocarea internă</string>
+    <string name="lblScanExternal">Scanează stocarea externă</string>
     <string name="lblOnionRoutingEnabledHint">Se descarcă prin Tor, asta poate dura un timp…</string>
     <string name="main_database_not_changed">Fișierul a rămas neschimbat</string>
     <string name="app_copyright">Drepturi de autor 2017-2024 Divested Computing Group</string>

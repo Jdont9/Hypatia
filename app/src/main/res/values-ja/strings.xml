@@ -33,8 +33,8 @@
     <string name="lblScanSystem">/systemをスキャン</string>
     <string name="app_license">License: GPL-3.0</string>
     <string name="lblScanApps">アプリAPKをスキャン</string>
-    <string name="lblScanInternal">内部ストレージをスキャン</string>
     <string name="lblScanExternal">外部ストレージをスキャン</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">マルウェアを検出</string>
     <string name="lblNotificationRealtimeDescription">バックグラウンドサービスを維持するためと、スキャンされたファイルを表示するために利用</string>
     <string name="lblNotificationRealtimeStopped">Hypatia: リアルタイム検出が停止されました</string>

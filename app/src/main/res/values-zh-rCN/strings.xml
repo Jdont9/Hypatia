@@ -12,8 +12,8 @@
     <string name="lblFullCredits">致谢</string>
     <string name="lblScanSystem">扫描 /system</string>
     <string name="lblScanApps">扫描应用软件包</string>
-    <string name="lblScanInternal">扫描内部存储空间</string>
     <string name="lblScanExternal">扫描外部存储空间</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">恶意程序检测</string>
     <string name="lblNotificationMalwareDetectionDescription">用于在检测到恶意程序时发出警报</string>
     <string name="lblNotificationRealtimeTitle">实时扫描</string>

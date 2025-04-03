@@ -54,10 +54,10 @@
     <string name="lblFullCredits">קרדיטים</string>
     <string name="main_database_not_changed">קובץ לא השתנה</string>
     <string name="lblNotificationRealtimeStopped">Hypatia: הסריקה בזמן אמת הופסקה</string>
-    <string name="lblScanExternal">סרוק אחסון חיצוני</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblScanApps">סריקת אפליקציות APKs</string>
     <string name="lblDatabaseServer">עקיפה של שרת מסד הנתונים</string>
-    <string name="lblScanInternal">סרוק אחסון פנימי</string>
+    <string name="lblScanExternal">סרוק אחסון חיצוני</string>
     <string name="lblOverride">עקיפה</string>
     <string name="lblSigningKey">מפתח חתימת מסד נתונים</string>
     <string name="lblScanSystem">סריקה /system</string>
