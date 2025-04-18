@@ -15,8 +15,8 @@
     <string name="lblDatabaseServer">Kasuta muud andmekogu</string>
     <string name="lblScanSystem">Kontrolli /system kausta</string>
     <string name="lblScanApps">Kontrolli rakenduste apk-faile</string>
-    <string name="lblScanInternal">Kontrolli sisemist andmekogu</string>
     <string name="lblScanExternal">Kontrolli välist andmekogu</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">Tuvasta pahavara</string>
     <string name="lblNotificationMalwareDetectionDescription">Kasutusel hoiatamaks pahavara tuvastamisel</string>
     <string name="lblNotificationRealtimeTitle">Kontrolli reaalajas</string>

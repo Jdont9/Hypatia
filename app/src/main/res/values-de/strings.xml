@@ -12,8 +12,8 @@
     <string name="lblFullCredits">Danksagung</string>
     <string name="lblScanSystem">/system scannen</string>
     <string name="lblScanApps">APK-Dateien scannen</string>
-    <string name="lblScanInternal">Internen Speicher scannen</string>
     <string name="lblScanExternal">Externen Speicher scannen</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">Schadsoftware-Erkennung</string>
     <string name="lblNotificationMalwareDetectionDescription">Dient zur direkten Warnung bei erkannter Schadsoftware</string>
     <string name="lblNotificationRealtimeTitle">Echtzeit-Scanner</string>

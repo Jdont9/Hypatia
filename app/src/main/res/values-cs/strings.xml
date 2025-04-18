@@ -12,8 +12,8 @@
     <string name="lblFullCredits">Poděkování</string>
     <string name="lblScanSystem">Skenovat /system</string>
     <string name="lblScanApps">Skenovat APK aplikací</string>
-    <string name="lblScanInternal">Skenovat interní úložiště</string>
     <string name="lblScanExternal">Skenovat externí úložiště</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">Detekce malware</string>
     <string name="lblNotificationMalwareDetectionDescription">Používáno při detekci malware</string>
     <string name="lblNotificationRealtimeTitle">Sken v reálném čase</string>

@@ -12,8 +12,8 @@
     <string name="lblFullCredits">Uznania</string>
     <string name="lblScanSystem">Skanuj /system</string>
     <string name="lblScanApps">Skanuj pliki APK aplikacji</string>
-    <string name="lblScanInternal">Skanuj pamięć wewnętrzną</string>
     <string name="lblScanExternal">Skanuj pamięć zewnętrzną</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">Wykrywanie złośliwego oprogramowania</string>
     <string name="lblNotificationMalwareDetectionDescription">Wykorzystywane do informowania, gdy wykryto złośliwe oprogramowanie</string>
     <string name="lblNotificationRealtimeTitle">Skaner w czasie rzeczywistym</string>

@@ -11,8 +11,8 @@
     <string name="lblFullCredits">Créditos</string>
     <string name="lblScanSystem">Escanear /system</string>
     <string name="lblScanApps">Escanear las APKs de las aplicaciones</string>
-    <string name="lblScanInternal">Escanear el almacenamiento interno</string>
     <string name="lblScanExternal">Escanear el almacenamiento externo</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">Detección de software malicioso</string>
     <string name="lblNotificationMalwareDetectionDescription">Sirve para alertar cuando se detecta software malicioso</string>
     <string name="lblNotificationRealtimeTitle">Escáner en tiempo real</string>

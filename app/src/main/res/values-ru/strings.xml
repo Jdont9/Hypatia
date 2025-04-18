@@ -11,8 +11,8 @@
     <string name="lblFullCredits">Благодарность</string>
     <string name="lblScanSystem">Сканировать /system</string>
     <string name="lblScanApps">Сканировать APK-файлы приложений</string>
-    <string name="lblScanInternal">Сканировать внутреннее хранилище</string>
     <string name="lblScanExternal">Сканировать внешнее хранилище</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">Обнаружение вредоносного ПО</string>
     <string name="lblNotificationMalwareDetectionDescription">Используется для оповещения при обнаружении вредоносного ПО</string>
     <string name="lblNotificationRealtimeTitle">Сканер в реальном времени</string>

@@ -12,8 +12,8 @@
     <string name="lblFullCredits">致謝</string>
     <string name="lblScanSystem">掃描 /system</string>
     <string name="lblScanApps">掃描應用程式 APK 檔案</string>
-    <string name="lblScanInternal">掃描內部儲存空間</string>
     <string name="lblScanExternal">掃描外部儲存空間</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">惡意軟體偵測</string>
     <string name="lblNotificationMalwareDetectionDescription">用於偵測到惡意軟體時發出警示</string>
     <string name="lblNotificationRealtimeDescription">用於顯示已掃描的檔案數量和維護背景服務</string>
