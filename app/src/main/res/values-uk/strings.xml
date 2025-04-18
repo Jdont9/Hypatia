@@ -10,8 +10,8 @@
     <string name="lblFullCredits">Подяки</string>
     <string name="lblScanSystem">Сканувати /system</string>
     <string name="lblScanApps">Сканувати APK застосунків</string>
-    <string name="lblScanInternal">Сканувати внутрішнє сховище</string>
     <string name="lblScanExternal">Сканування зовнішнє сховище</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationRealtimeTitle">Сканер у реальному часі</string>
     <string name="lblReset">Скинути</string>
     <string name="main_database_released_on">Випущено %s</string>

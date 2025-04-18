@@ -9,7 +9,7 @@
     <string name="lblFullCredits">Ocenenie</string>
     <string name="lblScanSystem">Skenovať / systém</string>
     <string name="lblScanApps">Skenovanie APK aplikácií</string>
-    <string name="lblScanExternal">Skenovať externé úložisko</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">Detekcia škodlivého softvéru</string>
     <string name="lblNotificationRealtimeTitle">Skenovať v reálnom čase</string>
     <string name="lblNotificationRealtimeDescription">Slúži na zobrazenie počtu skenovaných súborov a udržiavanie služby na pozadí</string>
@@ -67,7 +67,7 @@
     <string name="app_copyright">Copyright 2017-2024 Divested Computing Group</string>
     <string name="app_license">Licencia: GPL-3.0</string>
     <string name="lblOnionRoutingNotInstalled">Orbot nie je nainštalovaný!</string>
-    <string name="lblScanInternal">Skenovať interné úložisko</string>
+    <string name="lblScanExternal">Skenovať externé úložisko</string>
     <string name="lblNotificationMalwareDetectionDescription">Používa sa na upozornenie pri zistení škodlivého softvéru</string>
     <string name="lblNotificationRealtimeText">Známy škodlivý softvér sa bude zisťovať v reálnom čase</string>
     <string name="lblNotificationRealtimeDetection">Zistený škodlivý softvér:</string>

@@ -12,8 +12,8 @@
     <string name="lblFullCredits">Katkıda bulunanlar</string>
     <string name="lblScanSystem">Sistemi /tara</string>
     <string name="lblScanApps">Uygulama APK\'larını tara</string>
-    <string name="lblScanInternal">Dahili Depolamayı Tara</string>
     <string name="lblScanExternal">Harici Depolamayı Tara</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">Kötücül Yazılım Tespiti</string>
     <string name="lblNotificationMalwareDetectionDescription">Kötücül yazılım bulunduğunda haber vermek için kullanılır</string>
     <string name="lblNotificationRealtimeTitle">Gerçek zamanlı tarayıcı</string>

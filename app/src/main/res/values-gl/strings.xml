@@ -8,7 +8,7 @@
     <string name="lblDatabaseServer">Sobreescribir servidor BDD</string>
     <string name="lblFullCredits">Crédito</string>
     <string name="lblScanApps">Examinar APKs de App</string>
-    <string name="lblScanExternal">Examinar Almacenaxe Externa</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationRealtimeStopped">Hypatia: Detívose o Exame en tempo real</string>
     <string name="lblReset">Restablecer</string>
     <string name="lblOverride">Sobreescribir</string>
@@ -34,7 +34,7 @@
     <string name="main_files_pending_scan">%s ficheiros pendentes do exame</string>
     <string name="main_database_loading">A cargar base de datos…</string>
     <string name="app_copyright">Copyright 2017-2024 Divested Computing Group</string>
-    <string name="lblScanInternal">Examinar Almacenaxe Interna</string>
+    <string name="lblScanExternal">Examinar Almacenaxe Externa</string>
     <string name="app_version">Versión: %s</string>
     <string name="lblScanSystem">Examinar /system</string>
     <string name="lblUpdateDatabase">Actualizar bases de datos</string>

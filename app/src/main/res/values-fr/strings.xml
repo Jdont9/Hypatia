@@ -12,8 +12,8 @@
     <string name="lblFullCredits">Crédits</string>
     <string name="lblScanSystem">Analyser le /système</string>
     <string name="lblScanApps">Analyser les APK des applis</string>
-    <string name="lblScanInternal">Analyser la mémoire interne</string>
     <string name="lblScanExternal">Analyser la mémoire externe</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">Détection des logiciels malveillants</string>
     <string name="lblNotificationMalwareDetectionDescription">Utilisé pour alerter lorsqu\'un logiciel malveillant est détecté</string>
     <string name="lblNotificationRealtimeTitle">Analyser en temps réel</string>

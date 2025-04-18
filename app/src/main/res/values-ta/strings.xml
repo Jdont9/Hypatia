@@ -21,8 +21,8 @@
     <string name="lblFullCredits">வரவு</string>
     <string name="lblScanSystem">ச்கேன் /சிச்டம்</string>
     <string name="lblScanApps">பயன்பாட்டு APKS ஐ ச்கேன் செய்யுங்கள்</string>
-    <string name="lblScanInternal">உள் சேமிப்பிடத்தை ச்கேன் செய்யுங்கள்</string>
     <string name="lblScanExternal">வெளிப்புற சேமிப்பிடத்தை ச்கேன் செய்யுங்கள்</string>
+    <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">தீம்பொருள் கண்டறிதல்</string>
     <string name="lblNotificationMalwareDetectionDescription">தீம்பொருள் கண்டறியப்படும்போது எச்சரிக்கைப் பயன்படுத்தப்படுகிறது</string>
     <string name="lblNotificationRealtimeTitle">நிகழ்நேர ச்கேனர்</string>
