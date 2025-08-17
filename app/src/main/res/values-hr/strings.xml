@@ -34,7 +34,6 @@
     <string name="confirm_lookup_title">Potvrdite traženje</string>
     <string name="confirm_update_title">Potvrdite preuzimanje</string>
     <string name="lblWroteTestFiles">Napisao test datoteke!</string>
-    <string name="lblResetCloudflare">Cloudflare Mirror</string>
     <string name="accessibility_service_label">Hypatia skener veza</string>
     <string name="lblResetPrimary">Primarni poslužitelji</string>
     <string name="lblNotificationLinkDetection">Otkrivena zlonamjerna veza:</string>
@@ -76,7 +75,7 @@
 \nSve domene pronađene u sadržaju zaslona provjerit će se u bazi podataka.
 \nTo zahtijeva ručno dodjeljivanje dopuštenja usluge pristupačnosti.
 \nTo može imati značajan utjecaj na performanse na zaslonima s velikom količinom teksta.</string>
-    <string name="app_copyright">Autorska prava 2017-2024 Divested Computing Group</string>
+    <string name="app_copyright">Autorska prava 2017–2024 Divested Computing Group</string>
     <string name="app_db_type_clamav">Pokreće potpise u stilu ClamAV</string>
     <string name="main_database_download_error">Datoteka nije preuzeta, kod odgovora %s</string>
     <string name="main_database_loaded">Učitana baza podataka s potpisima %s</string>

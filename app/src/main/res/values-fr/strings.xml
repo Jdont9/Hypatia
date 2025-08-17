@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_copyright">Copyright 2017-2024 Divested Computing Group</string>
+    <string name="app_copyright">Copyright 2017–2024 Divested Computing Group</string>
     <string name="app_license">Licence : GPL-3.0</string>
     <string name="app_version">Numéro de version : %s</string>
     <string name="app_db_type_clamav">Propulsé par les signatures de style ClamAV</string>
@@ -78,7 +78,6 @@
     <string name="accessibility_service_label">Analyseur de liens Hypatia</string>
     <string name="lblLinkScannerToggle">Analyseur de liens</string>
     <string name="confirm_link_scanner_title">Activer l\'analyseur de liens ?</string>
-    <string name="lblResetCloudflare">Miroir Cloudflare</string>
     <string name="confirm_link_scanner_summary">[EXPÉRIMENTAL]
 \nCela téléchargera une base de données supplémentaire de domaines.
 \nTout lien trouvé dans le contenu de l\'écran sera comparé avec la base de données

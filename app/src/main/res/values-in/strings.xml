@@ -79,5 +79,4 @@
     <string name="detections_none">Tidak ada kecocokan yang ditemukan :)</string>
     <string name="detections_found">Sesuatu ditemukan! :(</string>
     <string name="lblWroteTestFiles">Menulis file uji!</string>
-    <string name="lblResetCloudflare">Cloudflare Cermin</string>
 </resources>

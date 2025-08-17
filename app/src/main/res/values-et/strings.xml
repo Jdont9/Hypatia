@@ -2,10 +2,9 @@
 <resources>
     <string name="app_license">Litsents: GPL-3.0</string>
     <string name="app_version">Versioon: %s</string>
-    <string name="app_copyright">Autoriõigused 2017-2024 Divested Computing Group\nAutoriõigused 2025 MaintainTeam Organization</string>
+    <string name="app_copyright">Autoriõigused 2017–2024 Divested Computing Group\nAutoriõigused 2025 MaintainTeam Organization</string>
     <string name="main_database_override">Kasutame serverit %s</string>
     <string name="lblResetPrimary">Põhiserverid</string>
-    <string name="lblResetCloudflare">Cloudflare peegelserver</string>
     <string name="lblFullCredits">Rakenduse teave</string>
     <string name="lblOnionRoutingToggle">Laadi alla Tori võrgu kaudu</string>
     <string name="lblOnionRoutingEnabledHint">Laadime alla Tori võrgu kaudu, selleks võib natuke aega kuluda…</string>

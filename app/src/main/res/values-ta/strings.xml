@@ -5,11 +5,10 @@
     <string name="lblNoNetwork">பிணையம் இணைக்கப்படவில்லை!</string>
     <string name="lookupVT">தேடல்</string>
     <string name="confirm_extended_title">நீட்டிக்கப்பட்ட தரவுத்தளத்தை இயக்கவா?</string>
-    <string name="lblResetCloudflare">கிளவுட்ஃப்ளேர் கண்ணாடி</string>
     <string name="accessibility_service_label">ஐபதியா இணைப்பு ச்கேனர்</string>
     <string name="lblNotificationLinkDetection">தீங்கிழைக்கும் இணைப்பு கண்டறியப்பட்டது:</string>
     <string name="lblLinkScannerToggle">இணைப்பு ச்கேனர்</string>
-    <string name="app_copyright">பதிப்புரிமை 2017-2024 பிரிக்கப்பட்ட கம்ப்யூட்டிங் குழு</string>
+    <string name="app_copyright">பதிப்புரிமை 2017–2024 பிரிக்கப்பட்ட கம்ப்யூட்டிங் குழு</string>
     <string name="app_license">உரிமம்: சிபிஎல் -3.0</string>
     <string name="app_version">பதிப்பு: %s</string>
     <string name="app_db_type_clamav">கிளாமாவ் பாணி கையொப்பங்களால் இயக்கப்படுகிறது</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_copyright">Copyright 2017-2024 Divested Computing Group</string>
+    <string name="app_copyright">Copyright 2017–2024 Divested Computing Group</string>
     <string name="lblFullCredits">Кредити</string>
     <string name="lblScanRemovable">Scan Removable Storage</string>
     <string name="lblNotificationMalwareDetectionTitle">Откриване на зловреден софтуер</string>
@@ -20,7 +20,6 @@
     <string name="confirm_extended_title">Активирай разширена база данни?</string>
     <string name="confirm_update_title">Потвърди изтеглянето</string>
     <string name="lblUpdateRunning">Пропускане на действие, изпълнява се актуализация!</string>
-    <string name="lblResetCloudflare">Cloudflare огледало</string>
     <string name="accessibility_service_label">Hypatia скенер за връзки</string>
     <string name="lblNotificationLinkDetection">Открита злонамерена връзка:</string>
     <string name="lblLinkScannerToggle">Скенер за връзки</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_copyright">Direitos Autorais 2017-2024 Divested Computing Group\nCopyleft 2025 MaintainTeam Organization</string>
+    <string name="app_copyright">Direitos Autorais 2017–2024 Divested Computing Group\nCopyleft 2025 MaintainTeam Organization</string>
     <string name="app_license">Licença: GPL-3.0</string>
     <string name="app_version">Versão: %s</string>
     <string name="app_db_type_clamav">Alimentado por assinaturas no estilo ClamAV</string>
@@ -79,7 +79,6 @@
 \nPrecisa que a permissão de serviço de acessibilidade seja concedida manualmente.
 \nPode ter um impacto considerável em telas com grandes quantidades de texto.</string>
     <string name="lblResetPrimary">Servidores Primários</string>
-    <string name="lblResetCloudflare">Espelho Cloudflare</string>
     <string name="accessibility_service_label">Busca de Links do Hypatia</string>
     <string name="accessibility_service_description">Extrai domínios de todo o conteúdo de texto da tela e verifica se estão numa lista de bloqueio</string>
     <string name="lblNotificationLinkDetection">Link Malicioso Detectado:</string>

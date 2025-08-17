@@ -73,7 +73,6 @@
     <string name="lblWroteTestFiles">Записаны тестовые файлы!</string>
     <string name="app_copyright">Авторское право 2017-2024 Divested Computing Group\nАвторское лево 2025 MaintainTeam Organization</string>
     <string name="lblResetPrimary">Основные серверы</string>
-    <string name="lblResetCloudflare">Зеркало Cloudflare</string>
     <string name="lblNotificationLinkDetection">Обнаружена вредоносная ссылка:</string>
     <string name="accessibility_service_description">Извлекает домены из всего текстового содержимого экрана и проверяет их на соответствие списку блокировок</string>
     <string name="lblLinkScannerToggle">Сканер ссылок</string>

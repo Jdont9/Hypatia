@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_copyright">Direitos autorais 2017-2024 Divested Computing Group\nCopyleft 2025 Organização MaintainTeam</string>
+    <string name="app_copyright">Direitos autorais 2017–2024 Divested Computing Group\nCopyleft 2025 Organização MaintainTeam</string>
     <string name="app_license">Licença: GPL-3.0</string>
     <string name="app_version">Versão: %s</string>
     <string name="app_db_type_clamav">Produzido por assinaturas estilo ClamAV</string>
@@ -74,7 +74,6 @@
     <string name="lblUpdateRunning">A pular a ação, uma atualização está em execução!</string>
     <string name="lblWroteTestFiles">Ficheiros de auto-verificação foram criados!</string>
     <string name="lblResetPrimary">Servidores Primários</string>
-    <string name="lblResetCloudflare">Espelho Cloudflare</string>
     <string name="accessibility_service_label">Scanner de ligações do Hypatia</string>
     <string name="accessibility_service_description">Extrai domínios de todo o conteúdo de texto do ecrã e verifica se estão numa lista de bloqueio</string>
     <string name="lblNotificationLinkDetection">Ligação maliciosa detetada:</string>
