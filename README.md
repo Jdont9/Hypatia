@@ -80,6 +80,7 @@ Permissions
 
 Planned Updates
 ----------------
+In order to view the immediate roadmap, please check out the [milestones](https://github.com/MaintainTeam/Hypatia/milestones). From here, you can gauge the time untill the next release. 😀
 - Option to scan on access
 - Scan newly installed/updated apps
 - Option to let 3rd-party apps invoke scans
