@@ -78,6 +78,16 @@ Permissions
 - `ACCESIBILITY_SERVICE`: Used to allow the link scanner to read the screen and check for malicious domains.
 - `DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION`
 
+Building
+-----
+Building the app is simliar to most android apps, but if you would like to sync the app in Android Studio, you might need to add the following to [metadata-verification.xml](https://github.com/MaintainTeam/Hypatia/blob/stable/gradle/verification-metadata.xml):
+```xml
+      <trusted-artifacts>
+         <trust file=".*-javadoc[.]jar" regex="true"/>
+         <trust file=".*-sources[.]jar" regex="true"/>
+      </trusted-artifacts>
+```
+
 Planned Updates
 ----------------
 In order to view the immediate roadmap, please check out the [milestones](https://github.com/MaintainTeam/Hypatia/milestones). From here, you can gauge the time untill the next release. 😀
