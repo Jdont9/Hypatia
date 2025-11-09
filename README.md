@@ -1,5 +1,5 @@
 > [!WARNING]
-> ### This is a fork of the [original](https://github.com/Divested-Mobile/Hypatia) (and discontinued) app, **which is still looking for maintainers**. Please consider to [apply](https://github.com/MaintainTeam/Hypatia/issues/1) to keep this app maintained !
+> ### This is a fork of the [original](https://github.com/Divested-Mobile/Hypatia) (and discontinued) app from DivestOS.
 
 ![Banner](./fastlane/metadata/android/en-US/images/featureGraphic.png)
 
@@ -41,18 +41,17 @@ The first thing to check is if you have extended databases enabled. Extended dat
 - **Unable to download databases:**
 If this occurs, try tapping the ellipsis in the top right of the main screen and tap `Database server override`. This uses a mirror database in case the main database is down.
 - **There are false positives:**
-This occasionally occurs due to the nature of bloom filters. If you believe there is a false positive, first, rescan. This will sometimes fix the false positive. And if this still returns a false positive, scan the file to [VirusTotal](https://www.virustotal.com/gui/home/upload), and this will tell you if you truly have a false positive or rather some malware.
+This occasionally occurs due to the nature of bloom filters. If you believe there is a false positive, first, rescan. This will sometimes fix the false positive. And if this still returns a false positive, scan the file to [VirusTotal](https://www.virustotal.com/gui/home/upload), and this will tell you if you truly have a false positive or rather some malware. 
 
-Signature Databases
--------------------
-We currently have 2 working signature database server provider. Both Signing keys are `5298C0C0C3E73288`
+APK Info & Security
+--------------------
 
-- [Codeberg](https://codeberg.org/MaintainTeam/HypatiaDatabases/)
-  - to use in app & see generation reports: https://maintainteam.codeberg.page/HypatiaDatabases/
-- [GitHub](https://github.com/MaintainTeam/HypatiaDatabases/)
-  - to use in app & see generation reports: https://maintainteam.github.io/HypatiaDatabases/
+Both debug, release and nightly versions built by GitHub Actions. You can check checksum notice in Release Actions or/and checksum.txt in releases to compare with Application's
 
-Database updates occurs in per 2 day about at 01 AM - 03 AM in both provider to `unsigned` branch. Then signing process made by self-hosted CI and push to `gh-pages`/`pages` branch about 06 AM. Each provider will generate static web-server from these branches. (UTC)
+This is the SHA fingerprint of Hypatia's signing key to verify downloaded APKs which are signed by us.
+```
+1B:00:8D:64:BB:95:AB:47:74:D6:8B:87:F2:2B:8B:E9:A2:72:F4:92:4D:F5:20:29:D7:E6:18:38:35:D9:18:CC
+```
 
 Technical Details
 ------------------
@@ -78,8 +77,19 @@ Permissions
 - `ACCESIBILITY_SERVICE`: Used to allow the link scanner to read the screen and check for malicious domains.
 - `DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION`: Required for receiver declarations in Android.
 
+Building
+-----
+Building the app is simliar to most android apps, but if you would like to sync the app in Android Studio, you might need to add the following to [metadata-verification.xml](https://github.com/MaintainTeam/Hypatia/blob/stable/gradle/verification-metadata.xml):
+```xml
+      <trusted-artifacts>
+         <trust file=".*-javadoc[.]jar" regex="true"/>
+         <trust file=".*-sources[.]jar" regex="true"/>
+      </trusted-artifacts>
+```
+
 Planned Updates
 ----------------
+In order to view the immediate roadmap, please check out the [milestones](https://github.com/MaintainTeam/Hypatia/milestones). From here, you can gauge the time untill the next release. 😀
 - Option to scan on access
 - Scan newly installed/updated apps
 - Option to let 3rd-party apps invoke scans
@@ -122,6 +132,7 @@ Translations
 - Estonian: Priit Jõerüüt
 - Finnish: huuhaa, Ricky Tigg
 - French: cardpuncher, Jean-Luc Tibaux, Petra Mirelli, thraex
+- Hebrew: elid34
 - Galician: ghose, josé m
 - German: thereisnoanderson, Balthazar1234, Petra Mirelli, Ettore Atalan
 - Greek: Dimitris Vagiakakos
