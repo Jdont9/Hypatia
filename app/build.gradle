@@ -91,6 +91,7 @@ dependencies {
     implementation(libs.androidx.appcompat)
     implementation(libs.androidx.documentfile)
     implementation(libs.androidx.core.ktx)
+    implementation(libs.kotlinx.coroutines.android)
 }
 
 static String getGitWorkingBranch() {

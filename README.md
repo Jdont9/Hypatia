@@ -28,6 +28,7 @@ Features
 - Regular scan: allowing selection of /system, internal storage, external storage, and installed apps
 - Realtime scanner: can detect malware in realtime on write/rename in internal storage
 - Completely offline: Internet is only used to download signature databases, files will never ever leave your device
+- Optional automatic database updates: once a day, Wi-Fi only, downloads only if the server has a newer file (HTTP 304)
 - Persistence: will automatically restart on boot/update
 - Tiny codebase: coming in at under 1000 sloc, it can be audited by even someone with basic programming experience
 - Minimal dependencies: the app only uses libraries when necessary
@@ -57,6 +58,7 @@ Technical Details
 ------------------
 - Signature databases are serialized Guava BloomFilter object format
 - Signature databases will not be redownloaded if the file hasn't changed on the server (304 not modified)
+- Optional daily JobScheduler task (Wi-Fi / unmetered only) checks for newer databases and downloads them when present
 - Signatures are stored using BloomFilters for O(k) lookup
 - Files have their MD5/SHA-1/SHA-256 hashes calculated in one pass
 - Realtime scanner is multithreaded and will use half of the device's core count for scanning multiple files asynchronously

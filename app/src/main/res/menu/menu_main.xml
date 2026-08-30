@@ -16,6 +16,10 @@
         android:id="@+id/mnuUpdateDatabase"
         android:title="@string/lblUpdateDatabase" />
     <item
+        android:id="@+id/toggleAutoDatabaseUpdate"
+        android:title="@string/lblAutoDatabaseUpdate"
+        android:checkable="true" />
+    <item
         android:id="@+id/mnuDatabaseServer"
         android:title="@string/lblDatabaseServer" />
     <item

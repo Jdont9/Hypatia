@@ -10,6 +10,14 @@
     <string name="lblOnionRoutingEnabledHint">Downloading over Tor, this may take a while…</string>
     <string name="lblOnionRoutingNotInstalled">Orbot is not installed!</string>
     <string name="lblUpdateDatabase">Update databases</string>
+    <string name="lblAutoDatabaseUpdate">Automatic database updates (once a day, Wi-Fi only)</string>
+    <string name="lblAutoDatabaseUpdateEnabled">Automatic database updates enabled. Hypatia will check once a day on Wi-Fi and download only if a newer database is available.</string>
+    <string name="lblAutoDatabaseUpdateDisabled">Automatic database updates disabled.</string>
+    <string name="lblAutoDatabaseUpdateWaitWifi">No Wi-Fi right now: the first check will run as soon as an unmetered connection is available.</string>
+    <string name="lblNotificationDatabaseUpdateTitle">Database updates</string>
+    <string name="lblNotificationDatabaseUpdateDescription">Alerts when new signature databases were downloaded</string>
+    <string name="lblNotificationDatabaseUpdated">Signature databases updated</string>
+    <string name="lblAutoUpdateLastCheck">Last automatic check: %s</string>
     <string name="lblDatabaseServer">Database server override</string>
     <string name="lblFullCredits">Credits</string>
     <string name="lblScanSystem">Scan /system</string>

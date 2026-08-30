@@ -8,6 +8,14 @@
     <string name="lblOnionRoutingEnabledHint">Téléchargement par Tor, cela peut prendre un certain temps…</string>
     <string name="lblOnionRoutingNotInstalled">Orbot n\'est pas installé !</string>
     <string name="lblUpdateDatabase">Mise à jour des bases de données</string>
+    <string name="lblAutoDatabaseUpdate">Mises à jour automatiques (une fois par jour, Wi-Fi uniquement)</string>
+    <string name="lblAutoDatabaseUpdateEnabled">Mises à jour automatiques activées. Hypatia vérifiera une fois par jour en Wi-Fi et ne téléchargera que si une base plus récente est disponible.</string>
+    <string name="lblAutoDatabaseUpdateDisabled">Mises à jour automatiques désactivées.</string>
+    <string name="lblAutoDatabaseUpdateWaitWifi">Pas de Wi-Fi pour le moment : la première vérification aura lieu dès qu\'une connexion non facturée sera disponible.</string>
+    <string name="lblNotificationDatabaseUpdateTitle">Mises à jour des bases</string>
+    <string name="lblNotificationDatabaseUpdateDescription">Alerte lorsque de nouvelles signatures ont été téléchargées</string>
+    <string name="lblNotificationDatabaseUpdated">Bases de signatures mises à jour</string>
+    <string name="lblAutoUpdateLastCheck">Dernière vérification automatique : %s</string>
     <string name="lblDatabaseServer">Remplacer le serveur de base de données</string>
     <string name="lblFullCredits">Crédits</string>
     <string name="lblScanSystem">Analyser le /système</string>

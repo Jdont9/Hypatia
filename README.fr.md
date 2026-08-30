@@ -17,6 +17,7 @@ Caractéristiques
 - Analyse régulière: permet de sélectionner le système, le mémoire interne, le mémoire externe et les applications installées
 - Scanner en temps réel: peut détecter les malwares en temps réel sur l'écriture ou le renommage dans le mémoire interne
 - Complètement hors ligne: l'internet n'est utilisé que pour télécharger des bases de données de signatures, les fichiers ne quitteront jamais votre appareil
+- Mises à jour automatiques optionnelles : une fois par jour, Wi-Fi uniquement, téléchargement seulement si le serveur a un fichier plus récent (HTTP 304)
 - Persistance: redémarre automatiquement au démarrage/mise à jour
 - Une base de code minuscule: avec moins de 1000 sloc, elle peut être vérifiée même par une personne ayant une expérience de base en programmation
 - Dépendances minimales: l'application n'utilise les bibliothèques que lorsque cela est nécessaire

@@ -7,6 +7,14 @@
     <string name="lblOnionRoutingEnabledHint">Aggiornamento tramite Tor, potrebbe volerci un po\'…</string>
     <string name="lblOnionRoutingNotInstalled">Orbot non è installato!</string>
     <string name="lblUpdateDatabase">Aggiorna i database</string>
+    <string name="lblAutoDatabaseUpdate">Aggiornamenti automatici (una volta al giorno, solo Wi-Fi)</string>
+    <string name="lblAutoDatabaseUpdateEnabled">Aggiornamenti automatici attivati. Hypatia controllerà una volta al giorno via Wi-Fi e scaricherà solo se è disponibile un database più recente.</string>
+    <string name="lblAutoDatabaseUpdateDisabled">Aggiornamenti automatici disattivati.</string>
+    <string name="lblAutoDatabaseUpdateWaitWifi">Nessun Wi-Fi: il primo controllo avverrà non appena sarà disponibile una connessione non a consumo.</string>
+    <string name="lblNotificationDatabaseUpdateTitle">Aggiornamenti database</string>
+    <string name="lblNotificationDatabaseUpdateDescription">Avvisa quando vengono scaricate nuove firme</string>
+    <string name="lblNotificationDatabaseUpdated">Database delle firme aggiornati</string>
+    <string name="lblAutoUpdateLastCheck">Ultimo controllo automatico: %s</string>
     <string name="lblDatabaseServer">Modifica il server dei database</string>
     <string name="lblFullCredits">Riconoscimenti</string>
     <string name="lblScanSystem">Scansiona le app di sistema</string>
